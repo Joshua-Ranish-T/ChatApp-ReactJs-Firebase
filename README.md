@@ -34,16 +34,6 @@ This Chat App allows users to **communicate in real-time** with a smooth and eng
 
 ---
 
-## 📸 Screenshots
-
-### 🔵 Login Page
-![Login Screenshot](image/login.png)
-
-### 🟢 Chat Interface
-![Chat Screenshot](image/chat.png)
-
----
-
 ## 🚀 Installation & Setup
 
 Follow these steps to run the project locally:
